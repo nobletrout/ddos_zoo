@@ -1,5 +1,5 @@
 # ddos_zoo
-A collection of pcaps and simple scripts to create ddos attacks.
+A collection of pcaps and simple scripts to receate the packets you witness in ddos attacks.
 
 # structure
 The directory structure is organized thusly `/ddos_attack_type/protocol/`
