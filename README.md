@@ -11,4 +11,4 @@ You can use the scripts and PCAPs to validate that your services are not at risk
 This isn't going to be another github full of fleshed out skiddie scripts. The intent is to provide an archive
 of potential sources of DDoS activity. The PCAPs are intended for analysis. If there is a supporting script,
 its intent is only to recreate the contents of the PCAP, not to create a full fledged DDoS attack. For that
-you'll need to grok, understand, and write some scapy code at the very least.
+you'll need to grok, understand, and write some scapy code.
